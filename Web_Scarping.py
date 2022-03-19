@@ -88,10 +88,10 @@ gross_rows = [tuple(x) for x in gross_array]
 # making connection to MySQL DB
 def getconnection():
     mydb = mysql.connector.connect(
-        host="localhost",
+        host="127.0.0.1",
         user=input("Enter username: "),
         password=getpass.getpass("Enter password: "),
-        database="imdbtop250"
+        database="scraping_sample"
     )
 
     return mydb  # returning mydb to stay connected
