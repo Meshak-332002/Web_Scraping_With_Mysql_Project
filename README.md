@@ -37,7 +37,8 @@ Below are few highlights from analysis.
 <img src="https://github.com/oneofthemdata/MySQL-Python-Web-Scraping/blob/main/images/Box%20Office%20Total%20by%20Genre.png" width="500" height="300">
 <img src="https://github.com/oneofthemdata/MySQL-Python-Web-Scraping/blob/main/images/Top%2020%20Directors%20by%20Their%20Movies'%20Gross%20Total.png" width="500" height="300">
 
+### ER Diagram
 
+  ![](https://github.com/oneofthemdata/MySQL-Python-Web-Scraping/blob/main/images/ER%20Diagram.png)
   
   
-
